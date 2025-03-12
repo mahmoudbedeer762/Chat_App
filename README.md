@@ -1,3 +1,3 @@
 # Chat_App
-## project notes
+## Project Notes
 
